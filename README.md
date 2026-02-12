@@ -4,7 +4,7 @@ An AI-powered Natural Language to SQL analytics assistant built using LangChain 
 This system enables users to query relational databases using conversational language instead of writing SQL manually.
 
 ---
-## Deployed in StreamLit Cloud :- 
+## Deployed on StreamLit Cloud :- 
 ### Live App link :- https://ai-sql-analytics-assistant-dfpqvpnzlnm2vkvrsclyrb.streamlit.app/
 
 ## 📌 Overview
